@@ -1,0 +1,7 @@
+name: anilibria3
+version: 0.1.0
+description: AniLibria api_v3 librirary by axein
+environment:
+  sdk: ^3.4.0
+dependencies:
+  http:
